@@ -1,5 +1,5 @@
 # Project_1
-ReconX Security Audit Tool
+Audit Tool
 Overview
 This project is an interactive network and system security audit tool. It enables users to perform deep security audits on their own machine or on remote (authorized) systems by scanning open ports, checking firewall status, and listing active system processes. The tool outputs interactive HTML and PDF reports with a risk score and actionable security recommendations.
 
